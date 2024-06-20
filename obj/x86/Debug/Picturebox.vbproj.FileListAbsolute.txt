@@ -1,0 +1,9 @@
+D:\VICERA RITCHE\Picturebox\Picturebox\bin\Debug\Picturebox.exe
+D:\VICERA RITCHE\Picturebox\Picturebox\bin\Debug\Picturebox.pdb
+D:\VICERA RITCHE\Picturebox\Picturebox\bin\Debug\Picturebox.xml
+D:\VICERA RITCHE\Picturebox\Picturebox\obj\x86\Debug\Picturebox.Resources.resources
+D:\VICERA RITCHE\Picturebox\Picturebox\obj\x86\Debug\Picturebox.vbproj.GenerateResource.Cache
+D:\VICERA RITCHE\Picturebox\Picturebox\obj\x86\Debug\Picturebox.exe
+D:\VICERA RITCHE\Picturebox\Picturebox\obj\x86\Debug\Picturebox.xml
+D:\VICERA RITCHE\Picturebox\Picturebox\obj\x86\Debug\Picturebox.pdb
+D:\VICERA RITCHE\Picturebox\Picturebox\obj\x86\Debug\Picturebox.MovieSelect.resources
